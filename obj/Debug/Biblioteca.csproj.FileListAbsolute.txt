@@ -1,0 +1,7 @@
+C:\Users\jocel\source\repos\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\jocel\source\repos\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\jocel\source\repos\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\jocel\source\repos\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\jocel\source\repos\Biblioteca\obj\Debug\Biblioteca.pdb
